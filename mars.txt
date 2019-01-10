@@ -1,3 +1,3 @@
 Mars appears red to the human eye.
 And it doesn't have any canals.
-This changed made from remote.
+This change made from remote.
